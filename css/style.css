@@ -115,4 +115,8 @@ img, video, audio, iframe, table, form {
   margin-left: 0%;
 }
 
-
+section {
+  padding: 30px;
+  margin-bottom: 20px;
+  background: white;
+}
