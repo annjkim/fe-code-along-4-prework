@@ -125,7 +125,8 @@ img, video, audio, iframe, table, form {
 
 header {
   position: fixed;
-  
+  top: 0;
+  left: 0;
 }
 
 section {
