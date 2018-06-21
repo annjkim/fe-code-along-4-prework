@@ -123,6 +123,11 @@ img, video, audio, iframe, table, form {
 
 /*///// SECTIONS /////*/
 
+header {
+  position: fixed;
+  
+}
+
 section {
   padding: 20px;
   margin-bottom: 20px;
